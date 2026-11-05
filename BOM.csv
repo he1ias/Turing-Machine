@@ -1,0 +1,9 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+JLC PCBA,1,JLC PCB,$65.00,$65.00,https://jlcpcb.com
+OR Gate,5,LCSC,$0.16,$0.80,https://www.lcsc.com/product-detail/C41427253.html
+Slide Switches,10,LCSC,$0.32,$3.20,https://www.lcsc.com/product-detail/C1121868.html
+Shift Registers,5,1.9,$0.38,$1.90,https://www.lcsc.com/product-detail/C22449650.html
+3-Bit DEMUX,1,LCSC,$1.51,$1.51,https://www.lcsc.com/product-detail/C1547279.html
+USB Power Supply,10,LCSC,$0.06,$0.60,https://www.lcsc.com/product-detail/C2345.html
+Pentiometer,1,LCSC,$2.07,$2.07,https://www.lcsc.com/product-detail/C5824127.html
+Estimated total shipping,1,,,$15.00,
